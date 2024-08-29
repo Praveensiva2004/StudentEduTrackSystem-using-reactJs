@@ -1,0 +1,99 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.manage{
+  display: flex;
+}
+.system{
+
+  background-color: blue;
+  width:250px;
+}
+.logo img{
+  height: 150px;
+  width:150px;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+.menu1{
+  height: 50px;
+  width:50px;
+  padding-left: 100px;
+  margin-top: 10px;
+  color:blanchedalmond;
+}
+p{
+  font-size: larger;
+  color:aliceblue;
+  margin-top: 0;
+}
+.word{
+  text-align: center;
+}
+.topic{
+  padding-left: 450px;
+  padding-right: 400px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 0;
+  color: aliceblue;
+}
+.header{
+  background-color: blueviolet;
+}
+.box1{
+  background-color:orange;
+  height: 200px;
+  width:200px;
+  margin:50px;
+ 
+}
+.menu2{
+  height:75px;
+  width:75px;
+  margin-top: 20px;
+  margin-left: 60px;
+  color:aliceblue;
+}
+h4{
+  text-align: center;
+}
+.box{
+  display: flex;
+  margin-left: 50px;
+}
+h6{
+  text-align: center;
+}
+h3{
+  padding-left: 500px;
+}
+.menu3{
+  height: 70px;
+  width:70px;
+  color: blueviolet;
+  
+}
+.name {
+  color:red;
+  text-align: center;
+}
+.box3{
+   
+    margin-left:100px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+.box2{
+  display:flex;
+}
